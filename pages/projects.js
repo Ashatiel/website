@@ -69,7 +69,7 @@ export default function Work() {
                                                 </a>
                                     </div>
                                 </div>
-                            </motion.div>
+                           
                         </div>
                     </div>
                 </div>
