@@ -52,7 +52,8 @@ export default function Footer() {
                             <title>Twitch</title>
                             <rect width="16" height="16" x="2" y="2" rx="5" ry="5"/>
                             <path d="M3.857 0 1 2.857v10.286h3.429V16l2.857-2.857H9.57L14.714 8V0H3.857zm9.714 7.429-2.285 2.285H9l-2 2v-2H4.429V1.143h9.142v6.286z"/>
-                          </svg>
+                            <path d="M11.857 3.143h-1.143V6.57h1.143V3.143zm-3.143 0H7.571V6.57h1.143V3.143z"/>
+                       </svg>
                     </a>
                 </span>
             </footer>
