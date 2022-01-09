@@ -24,6 +24,28 @@ export default function Work() {
                 <meta name="twitter:description" content="Just your new best friend."/>
                 <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
             </Head>
+           <div className="flex flex-col min-h-screen">
+                <Navbar />
+                <div className="flex flex-grow items-center">
+                    <div className="w-full">
+                        <div className="container flex mx-auto justify-center">
+                            <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
+                                <div className="text-center">
+                                    <h1 className="md:text-6xl text-3xl font-bold">
+                                        My <span className="text-rose-500">Projects</span>
+                                    </h1>
+                                    <p className="text-gray-200 text-lg font-medium px-4">
+                                        Featured & recent projects
+                                    </p>
+                                </div>
+                               <div className="relative w-11/12 mx-auto overflow-auto">
+                                    <div className="absolute h-full w-full p-20 z-20">
+                                       <div className="flex items-center justify-center h-full w-full p-4">
+                                            <h1 className="md:text-6xl text-3xl font-bold text-center">
+                                                Coming Soon!
+                                            </h1>
+                                        </div>
+                                    </div>
                                     <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4">
                                         <div className="flex-grow space-y-2">
                                             <h1 className="text-3xl font-bold">ClumsyHosting</h1>
@@ -71,6 +93,9 @@ export default function Work() {
                                         </div>
                                     </div>
                                 </div>
+                            </motion.div>
+                        </div>
+                    </div>
                 </div>
                 <Footer />
             </div>
