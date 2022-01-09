@@ -46,7 +46,7 @@ export default function Contact() {
                                                 <title>Email</title>
                                                 <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
                                             </svg>
-                                            <p className="text-white text-xl overflow-ellipsis">sky@clumsyhosting.xyz</p>
+                                            <p className="text-white text-xl overflow-ellipsis">ggzackerry@gmail.com</p>
                                         </a>
                                         <a onClick={() => {navigator.clipboard.writeText("zack;#0997")}} className="bg-gray-800 text-white p-4 text-center rounded gap-3 cursor-pointer has-tooltip">
                                             <svg fill="currentColor" className="mx-auto max-h-12" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
