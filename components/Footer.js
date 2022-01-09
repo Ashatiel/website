@@ -46,7 +46,7 @@ export default function Footer() {
                             <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"/>
                         </svg>
                    </a>
-                    <a href="https://www.twitch.tv/heartfulsky" class="bi bi-twitch" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.twitch.tv/heartfulsky" className="text-gray-400" class="bi bi-twitch" rel="noopener noreferrer">
                         <svg fill="none" fill="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"
                             className="w-5 h-5" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
                             <title>Twitch</title>
