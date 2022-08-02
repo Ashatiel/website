@@ -34,6 +34,9 @@ export default function Work() {
                                     <h1 className="md:text-6xl text-3xl font-bold">
                                         My <span className="text-rose-500">Projects</span>
                                     </h1>
+                                    <p className="text-gray-200 text-lg font-medium px-4">
+                                            Featured & recent projects
+                                    </p>
                                 </div>
                                         <div className="flex-grow space-y-2 md:p-16 p-4">
                                             <h1 className="text-3xl font-bold">Electronomy eSports</h1>
