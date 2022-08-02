@@ -38,7 +38,6 @@ export default function Work() {
                                         Featured & recent projects
                                     </p>
                                 </div>
-                                        </div>
                                         <div className="flex-grow space-y-2">
                                             <h1 className="text-3xl font-bold">Electronomy eSports</h1>
                                             <p className="text-gray-400 py- text-justify">
