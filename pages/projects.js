@@ -35,7 +35,7 @@ export default function Work() {
                                         My <span className="text-rose-500">Projects</span>
                                     </h1>
                                 </div>
-                                        <div className="flex-grow space-y-2">
+                                        <div className="flex-grow space-y-2 md:p-16 p-4">
                                             <h1 className="text-3xl font-bold">Electronomy eSports</h1>
                                             <p className="text-gray-400 py- text-justify">
                                                 Electronomy is an entertainment organization bringing love, joy, peace, to all its players and content creators, and more. We are based in the North American region.
