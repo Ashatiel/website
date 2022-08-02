@@ -34,14 +34,11 @@ export default function Work() {
                                     <h1 className="md:text-6xl text-3xl font-bold">
                                         My <span className="text-rose-500">Projects</span>
                                     </h1>
-                                    <p className="text-gray-150 text-lg font-medium px-4">
-                                        Featured & recent projects
-                                    </p>
                                 </div>
-                                        <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2">
+                                        <div className="flex-grow space-y-2">
                                             <h1 className="text-3xl font-bold">Electronomy eSports</h1>
                                             <p className="text-gray-400 py- text-justify">
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+                                                Electronomy is an entertainment organization bringing love, joy, peace, to all its players and content creators, and more. We are based in the North American region.
                                             </p>
                                             <div className="flex space-x-2">
                                                 <a className="rounded-full" href="#" target="_blank">
