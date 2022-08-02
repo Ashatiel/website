@@ -38,7 +38,6 @@ export default function Work() {
                                         Featured & recent projects
                                     </p>
                                 </div>
-                                    <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2 blur md:p-16 p-4">
                                         <div className="flex-grow space-y-2">
                                             <h1 className="text-3xl font-bold">ClumsyHosting</h1>
                                             <p className="text-gray-400 py- text-justify">
@@ -83,7 +82,6 @@ export default function Work() {
                                                 </a>
                                             </div>
                                     </div>
-                                </div>
                             </motion.div>
                         </div>
                     </div>
