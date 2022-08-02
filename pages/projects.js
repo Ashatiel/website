@@ -38,7 +38,7 @@ export default function Work() {
                                         Featured & recent projects
                                     </p>
                                 </div>
-                                        <div className="flex-grow space-y-2">
+                                        <div className="w-full grid gap-20 grid-cols-1 md:grid-cols-2">
                                             <h1 className="text-3xl font-bold">Electronomy eSports</h1>
                                             <p className="text-gray-400 py- text-justify">
                                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
