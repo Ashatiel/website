@@ -5,7 +5,7 @@ export default function Footer() {
         <>
             <footer className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <p className="text-xl">
-                    © MMXXI
+                    © MMXXII
                     {" "}
                     <Link href="/">
                         <a>Zackery.</a>
