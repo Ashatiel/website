@@ -46,8 +46,7 @@ export default function About() {
                                         <p>Another thing people may not know about me is that I am Christian, and back in 2018, me and my family decided to go to Church, so we did, we did exactly that and Church hopped for a few months. And found I Church I used to go to.</p>
                                         <p>During that Youth service, that's when my social life began. It was odd, I will say. Not knowing anyone there or knowing about my faith. It changed    my    life.</p>
                                         
-                                        <p>Around half the time I was there I met some of the best people I ever met. And that's where I started my Content Creation. Me and my family eventually Church hopped again, to the Church I go to now.</p>
-                                        <p>Although leaving all those people behind me, and in my past. It was difficult, thankfully I had Music.</p>
+                                        <p>Around half the time I was there I met some of the best people I ever met. And that's where I started my Content Creation. Me and my family eventually Church hopped again, to the Church I go to now. Although leaving all those people behind me, and in my past. It was difficult, thankfully I had Music.</p>
                                         
                                         <p>In 2021, I ended up getting COVID-19, which honestly, it sucked. But I was being supported and surrounded with love and support, and I'm thankful for that.</p>
                                         
