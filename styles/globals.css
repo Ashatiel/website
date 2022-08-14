@@ -23,7 +23,7 @@ html, body {
 
 /* Links */
 a {
-    @apply text-sky;
+    @apply text-sky-300;
 }
 
 a:hover {
