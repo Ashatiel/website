@@ -1,6 +1,6 @@
 import Link from "next/link";
 import {useState} from "react";
-import NavLink from "./Navlink";
+import NavLink from "./NavLink";
 
 export default function Navbar() {
     const [active, setActive] = useState(false)
@@ -15,7 +15,7 @@ export default function Navbar() {
                 <div className="flex">
                     <Link href="/">
                         <a className="flex font-medium items-center mb-4 md:mb-0">
-                            <span className="text-2xl font-bold duration-200">Robert S.</span>
+                            <span className="text-2xl font-bold duration-200">Zackery.</span>
                         </a>
                     </Link>
                     <button
