@@ -23,11 +23,11 @@ html, body {
 
 /* Links */
 a {
-    @apply text-aqua-500;
+    @apply text-blue-400;
 }
 
 a:hover {
-    @apply text-aqua-600 duration-200;
+    @apply text-blue-600 duration-200;
 }
 
 /* Tooltip */
