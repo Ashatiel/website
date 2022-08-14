@@ -49,7 +49,7 @@ export default function About() {
 
                                             And at my current Church now, is where I sing for! Being a worship leader is something I always dreamed of, more than Twitch or whatnot. I became one.
 
-                                            Okay, now off with the biography. I am a Twitch Streamer with over 400 followers, and I own two birds (Cockatiels) by the name of Apollo, and Clementine. I hope you enjoy my content and my journey with everything. <3
+                                            Okay, now off with the biography. I am a Twitch Affiliate/Streamer, and I own two birds (Cockatiels) by the name of Apollo, and Clementine. I hope you enjoy my content and my journey with everything. <3
                                         </p>
                                     </div>
                                 </div>
