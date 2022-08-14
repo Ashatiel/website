@@ -54,7 +54,7 @@ export default function About() {
                                         <p>Also during the time of 2021, and 2022 Content side, I met some wonderful people and communities. And I am super glad to be part of them.</p>
                                         <p> I love to sing. I sing in my Content, I sing outside of Content, I just sing whenever I want to and can. And at my current Church now, is where I sing for! Being a worship leader is something I always dreamed of, more than Twitch or whatnot. I became one. </p>
                                   
-                                        <p>Okay, now off with the biography. I am a Twitch Affiliate/Streamer with over 400 followers, and I own two birds (Cockatiels) by the name of Apollo and Clementine. I hope you enjoy my content and my journey with everything. :)</p>              
+                                        <p>Okay, now we're done with the autobiography lol! I am a Twitch Affiliate/Streamer with over 400 followers, and I own two birds (Cockatiels) by the name of Apollo and Clementine. I hope you enjoy my content and my journey with everything. :)</p>              
                                   </div>
                                 </div>
                             </motion.div>
