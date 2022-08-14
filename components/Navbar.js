@@ -64,6 +64,11 @@ export default function Navbar() {
                             Contact
                         </a>
                     </NavLink>
+                    <NavLink href="https://www.ashvr.shop/">
+                        <a className="w-full sm:w-auto flex-none hover:text-white duration-200 text-md py-2 rounded mr-auto mr-0@m">
+                            Merch
+                        </a>
+                    </NavLink>
                 </div>
             </nav>
         </>
