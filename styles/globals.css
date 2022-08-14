@@ -27,7 +27,7 @@ html, body {
 }
 
 a:hover {
-    @apply text-rose-500 duration-200;
+    @apply text-sky-500 duration-200;
 }
 
 /* Tooltip */
