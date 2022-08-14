@@ -23,11 +23,11 @@ html, body {
 
 /* Links */
 a {
-    @apply text-sky-300;
+    @apply text-sky;
 }
 
 a:hover {
-    @apply text-sky-500 duration-200;
+    @apply text-rose-500 duration-200;
 }
 
 /* Tooltip */
