@@ -49,7 +49,7 @@ export default function About() {
                                         <p>Around half the time I was there I met some of the best people I ever met. And that's where I started my Content Creation. Me and my family eventually Church hopped again, to the Church I go to now.</p>
                                         <p>Although leaving all those people behind me, and in my past. It was difficult, thankfully I had Music.</p>
                                         
-                                        <p>In 2021, I ended up getting the COVID-19, which honestly, it sucked. But I was being supported and surrounded with love and support, and I'm thankful for that.</p>
+                                        <p>In 2021, I ended up getting COVID-19, which honestly, it sucked. But I was being supported and surrounded with love and support, and I'm thankful for that.</p>
                                         
                                         <p>Also during the time of 2021, and 2022 Content side, I met some wonderful people and communities. And I am super glad to be part of them.</p>
                                         <p> I love to sing. I sing in my Content, I sing outside of Content, I just sing whenever I want to and can. And at my current Church now, is where I sing for! Being a worship leader is something I always dreamed of, more than Twitch or whatnot. I became one. </p>
