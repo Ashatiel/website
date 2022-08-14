@@ -6,7 +6,7 @@
 
 /* Scrollbar */
 html, body {
-    scrollbar-color: #00FFFF #18181B;
+    scrollbar-color: #7DD3FC #18181B;
     scrollbar-width: thin;
 }
 ::-webkit-scrollbar {
@@ -18,16 +18,16 @@ html, body {
 }
 ::-webkit-scrollbar-thumb:vertical {
     height: 30px;
-    background-color: #00FFFF;
+    background-color: #7DD3FC;
 }
 
 /* Links */
 a {
-    @apply text-blue-400;
+    @apply text-sky-300;
 }
 
 a:hover {
-    @apply text-blue-600 duration-200;
+    @apply text-sky-500 duration-200;
 }
 
 /* Tooltip */
