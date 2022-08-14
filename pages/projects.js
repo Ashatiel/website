@@ -8,19 +8,19 @@ export default function Work() {
         <div>
             <Head>
                 <meta charSet="UTF-8"/>
-                <title>Zackery. - My Work</title>
+                <title>Zackery. - Projects</title>
                 <meta name="description" content="I'VE OFFICIALLY BECAME YOUR BEST FRIEND!" />
                 <meta name="keywords" content="Music,Friends,Family,Singing,Stage,Besties,BestFriends,Personal" />
                 <meta name="author" content="Zackery." />
                 <link rel="icon" href="/favicon.ico" />
-                <meta property="og:title" content="Zackery. - My Work" />
+                <meta property="og:title" content="Zackery. - Project" />
                 <meta property="og:description" content="I'm trying my best to do everything I can in life." />
                 <meta property="og:url" content="https://zackeryjs.xyz/work" />
                 <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
                 <meta name="theme-color" content="#F43F5E" />
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:site" content="@skyystw" />
-                <meta name="twitter:title" content="Zackery. - My Work" />
+                <meta name="twitter:site" content="@ashatiel_" />
+                <meta name="twitter:title" content="Ashatiel_" />
                 <meta name="twitter:description" content="Just your new best friend."/>
                 <meta name="twitter:image" content="https://zackeryjs.xyz/logo.jpg"/>
             </Head>
@@ -32,7 +32,7 @@ export default function Work() {
                             <motion.div initial={{ opacity: 0 }} animate={{ opacity: [0, 1] }} transition={{ duration: 0.5 }}>
                                 <div className="text-center">
                                     <h1 className="md:text-6xl text-3xl font-bold">
-                                        My <span className="text-rose-500">Projects</span>
+                                        My <span className="text-sky-300">Projects</span>
                                     </h1>
                                     <p className="text-gray-200 text-lg font-medium px-4">
                                             Featured & recent projects
