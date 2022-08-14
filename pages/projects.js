@@ -17,7 +17,7 @@ export default function Work() {
             <meta property="og:description" content="Just trying my best to do everything I can in life." />
             <meta property="og:url" content="https://zackeryjs.xyz/" />
             <meta property="og:image" content="https://zackeryjs.xyz/logo.jpg" />
-            <meta name="theme-color" content="#F43F5E" />
+            <meta name="theme-color" content="#7DD3FC" />
         </Head>
            <div className="flex flex-col min-h-screen">
                 <Navbar />
