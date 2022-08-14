@@ -9,7 +9,7 @@ module.exports = {
       white: colors.white,
       black: colors.black,
       gray: colors.gray,
-      rose: colors.rose
+      sky: colors.sky
     },
     extend: {
       fontFamily: {
