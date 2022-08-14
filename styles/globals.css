@@ -6,7 +6,7 @@
 
 /* Scrollbar */
 html, body {
-    scrollbar-color: #F43F5E #18181B;
+    scrollbar-color: #00FFFF #18181B;
     scrollbar-width: thin;
 }
 ::-webkit-scrollbar {
